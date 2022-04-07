@@ -2,7 +2,7 @@
 
 ## GG Tropinha
 
-- 👋 Hi, I’m @kalpadilha
+- 👋 Hi, I’m **@kalpadilha**
 - 👀 Eu estou enteressado em aprender e programar novas linguagens!
 - 🌱 Eu estou aprendendo a programar em linguagen de Javascript e scratch
 - 💞️ I’m looking to collaborate on ...
